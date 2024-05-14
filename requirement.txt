@@ -1,0 +1,12 @@
+xformers==0.0.25
+
+transformers
+peft
+accelerate
+
+opencv-python
+controlnet_aux
+scipy
+ftfy
+gradio==3.50.0
+
