@@ -8,5 +8,5 @@ opencv-python
 controlnet_aux
 scipy
 ftfy
-
+gradio==3.50.0
 
